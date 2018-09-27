@@ -1,5 +1,5 @@
 Ez lesz a könyv elsõ sora.
 Ez meg a második.
-42
+40
 Csõke laptopozik
 Tomi meg könyököl.
