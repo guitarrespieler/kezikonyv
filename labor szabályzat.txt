@@ -1,1 +1,2 @@
 1. A Laborba csak körtagok léphetnek be.
+2. Az aktuális laborszabályzat mindig elérhetõ a laborban, és az interneten.
